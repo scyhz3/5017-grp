@@ -1,0 +1,24 @@
+{
+    "name": "MMDTokens",
+    "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
+    "keywords": [
+      "mmd",
+      "defi"
+    ],
+    "timestamp": "2022-11-20T20:37:00.000+00:00",
+    "tokens": [
+      {
+        "chainId": 8348,
+        "address": "0x57df7ef3490d33fafd929ad67cd58535f56fd17a",
+        "name": "MMDToken",
+        "symbol": "MMD",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
+      }
+    ],
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    }
+  }
