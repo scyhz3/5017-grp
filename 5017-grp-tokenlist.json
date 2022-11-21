@@ -9,19 +9,19 @@
     "tokens": [
       {
         "chainId": 8348,
-        "address": "0x57df7ef3490d33fafd929ad67cd58535f56fd17a",
-        "name": "MMDToken",
-        "symbol": "MMD",
-        "decimals": 18,
-        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
-      },
-      {
-        "chainId": 8348,
         "address": "0xea8a2a0c139d7632cc62378529f3a15912d75455",
         "name": "cMMDToken",
         "symbol": "cMMD",
         "decimals": 18,
         "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_REP.svg"
+      },
+      {
+        "chainId": 8348,
+        "address": "0x57df7ef3490d33fafd929ad67cd58535f56fd17a",
+        "name": "MMDToken",
+        "symbol": "MMD",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
       }
     ],
     "version": {
