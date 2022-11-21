@@ -17,7 +17,7 @@
       },
       {
         "chainId": 8348,
-        "address": "0x57df7ef3490d33fafd929ad67cd58535f56fd17a",
+        "address": "0xd267f25c81322e361d59cd59be40143f17498b3f",
         "name": "MMDToken",
         "symbol": "MMD",
         "decimals": 18,
@@ -25,7 +25,7 @@
       }
     ],
     "version": {
-      "major": 2,
+      "major": 3,
       "minor": 0,
       "patch": 0
     }
