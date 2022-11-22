@@ -1,6 +1,6 @@
 {
     "name": "MMDTokens",
-    "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
+    "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg",
     "keywords": [
       "mmd",
       "defi"
@@ -25,7 +25,7 @@
       }
     ],
     "version": {
-      "major": 3,
+      "major": 4,
       "minor": 0,
       "patch": 0
     }
