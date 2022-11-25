@@ -7,7 +7,7 @@ import useToggledVersion, { Version } from '../../hooks/useToggledVersion'
 import { MouseoverTooltip } from '../Tooltip'
 
 const VersionLabel = styled.span<{ enabled: boolean }>`
-  padding: 0.35rem 0.6rem;
+  padding: 0.rem 0.rem;
   border-radius: 12px;
   background: ${({ theme, enabled }) => (enabled ? theme.primary1 : 'none')};
   color: ${({ theme, enabled }) => (enabled ? theme.white : theme.text1)};
@@ -64,8 +64,7 @@ export default function VersionSwitch() {
 
   const toggle = (
     <VersionToggle enabled={versionSwitchAvailable} to={toggleDest} onClick={handleClick}>
-      <VersionLabel enabled={version === Version.v2 || !versionSwitchAvailable}>V2</VersionLabel>
-      <VersionLabel enabled={version === Version.v1 && versionSwitchAvailable}>V1</VersionLabel>
+      <VersionLabel enabled={version === Version.v2 || !versionSwitchAvailable}></VersionLabel>
     </VersionToggle>
   )
   return versionSwitchAvailable ? (
